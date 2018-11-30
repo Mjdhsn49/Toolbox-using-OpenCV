@@ -9,9 +9,9 @@ All the tasks to perform are listed out in the GUI. In order to perform any spec
 * OpenCV
 * cmake
 ### How to setup Qt and openCV on Windows
-Follow this [link](https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows) to setup Qt nd OpenCV on Windows
+Follow this [link](https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows) to setup Qt and OpenCV on Windows
 
-After the completion of Setup you can starting exploring the project.
+After the completion of Setup you can start exploring the project.
 
 # Run
 * Clone the repository
